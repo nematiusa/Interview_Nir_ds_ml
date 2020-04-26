@@ -1,0 +1,31 @@
+Services,AWS response time,In House response time
+Sentiment Analysis,32.00 ,96.00 
+Named entity detection,16.00 ,78.00 
+Category classification,12.00 ,64.00 
+Snippeting tool,34.00 ,84.00 
+Automatic Speech recognition,20.00 ,70.00 
+Punctuation,26.00 ,74.00 
+Attribute Identification,34.00 ,80.00 
+Aspect based sentiment analysis,32.00 ,78.00 
+Summarization,46.00 ,90.00 
+Elastic search,38.00 ,82.00 
+Object identification,36.00 ,80.00 
+Gender detection,16.00 ,60.00 
+Group analysis,10.00 ,54.00 
+Aggregator,50.00 ,92.00 
+Curator,34.00 ,76.00 
+Reserver,44.00 ,84.00 
+POS tagger,36.00 ,76.00 
+Html creator,34.00 ,74.00 
+Information retrieval,20.00 ,60.00 
+Passage ranking,52.00 ,90.00 
+passage scoring,50.00 ,88.00 
+sentence integrity,48.00 ,86.00 
+QA,44.00 ,82.00 
+Response analyser,32.00 ,70.00 
+Speech synthesis,50.00 ,86.00 
+Image identification,42.00 ,78.00 
+Auto Blogger,36.00 ,72.00 
+Recommendation engine,36.00 ,72.00 
+CBM model,24.00 ,60.00 
+taxonomy model,22.00 ,58.00 
